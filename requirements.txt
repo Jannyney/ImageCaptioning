@@ -1,0 +1,16 @@
+tensorflow
+matplotlib.pyplot
+collections
+random
+numpy 
+os
+time
+json
+PIL
+tqdm
+pythainlp
+stop_words
+re
+pandas
+csv
+glob
